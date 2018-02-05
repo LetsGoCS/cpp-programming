@@ -13,7 +13,7 @@ Low-level programming language: more easier for machine (computer) to understand
 
 IDE (Integrated development environment):  software that provides facilities for software development. IDE may consists of a source code editor, intelligent code completion, etc. Examples: Microsoft Visual Studio, NetBeans, Eclipse, etc.
 
-We will use Code::Blocks (free, open-source cross-platform IDE that supports multiple compilers).
+We will use [Code::Blocks](http://www.codeblocks.org/) (free, open-source cross-platform IDE that supports multiple compilers).
 
 
 ## Code
